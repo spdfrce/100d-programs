@@ -13,3 +13,5 @@ Starting from Project 1
 
 **Update 2: 15.01.2024 20:24 I have started the 100 days of code
 Currently running 4 forks from the exercises I am doing. My next upload is coming up
+
+// Upload 4 & 5: 15.01.2024 21:59 Uploaded two programs; input swapper & a program that finds the length of any name
