@@ -7,5 +7,9 @@
 
 //Upload 3: 23.11.23 00:57 I'm learning functions, and unless variables are explicitly converted to int, they are concantenated. 
 
-**Update 1: 03.01.2023 11:24 Getting back on the challenge,
+**Update 1: 03.01.2024 11:24 Getting back on the challenge,
 Starting from Project 1
+
+
+**Update 2: 15.01.2024 20:24 I have started the 100 days of code
+Currently running 4 forks from the exercises I am doing. My next upload is coming up
