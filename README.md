@@ -15,3 +15,5 @@ Starting from Project 1
 Currently running 4 forks from the exercises I am doing. My next upload is coming up
 
 // Upload 4 & 5: 15.01.2024 21:59 Uploaded two programs; input swapper & a program that finds the length of any name
+
+// Upload 6: 16.01.2024 18:10 Finished day 1 of 100, uploading a "Band Name Generator" of sorts. Key items are input prompts & concatenation.
